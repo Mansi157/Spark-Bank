@@ -1,5 +1,5 @@
 <h1 style="font-weight:bold">Spark-Bank &#127974;</h1>
-basic backing website in this site you can transfer money to the different bank
+basic banking website in this site you can transfer money to the different customer
 <h1>HOME</h1>
 
 ![1](https://user-images.githubusercontent.com/73159092/105991404-bcf81500-60c9-11eb-962d-0dcf81c9145b.PNG)
